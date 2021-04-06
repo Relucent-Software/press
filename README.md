@@ -1,4 +1,4 @@
-# ![Relucent](./dist/Relucent/relucent-cover-image-blue.png) Relucent
+# ![Relucent](./dist/relucent-logo-extended/relucent-logo-extended-cover-blue.png) Relucent
 
 ## Credits
 
