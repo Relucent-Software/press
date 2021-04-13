@@ -1,5 +1,7 @@
 # ![Relucent](./dist/relucent-logo-extended/relucent-logo-extended-cover-blue.png) Relucent
 
+Relucent Software press and brand assets.
+
 ## Credits
 
 ### Sources
